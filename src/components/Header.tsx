@@ -70,7 +70,7 @@ export default function Header({
             <a href="/" className="flex items-center gap-2">
               <div className="relative h-9 w-9 sm:h-11 sm:w-11 rounded-full overflow-hidden border border-[#1a1a1a]/15 bg-white flex items-center justify-center shrink-0 shadow-xs">
                 <img 
-                  src="WhatsApp Image 2026-07-13 at 4.03.28 PM.jpeg" 
+                  src="D:\shopify premium store updated version\WhatsApp Image 2026-07-13 at 4.03.28 PM.jpeg" 
                   alt="Royal Fire Logo" 
                   referrerPolicy="no-referrer"
                   className="h-full w-full object-cover scale-[1.02]"
