@@ -67,15 +67,15 @@ export default function Footer({ onCategorySelect }: FooterProps) {
             <div className="relative h-7 w-7 rounded-full overflow-hidden border border-white/10 bg-white flex items-center justify-center shrink-0 shadow-xs">
               <img 
                 src="WhatsApp Image 2026-07-13 at 4.03.28 PM.jpeg" 
-                alt="Royal Sphire Logo" 
+                alt="Royalsphire Gadgets Logo"
                 referrerPolicy="no-referrer"
                 className="h-full w-full object-cover scale-[1.02]"
               />
             </div>
-            Royal <span className="not-italic font-light text-xs uppercase tracking-widest ml-1 opacity-80">Sphire</span>
+            Royalsphire <span className="not-italic font-light text-xs uppercase tracking-widest ml-1 opacity-80">Gadgets</span>
           </span>
           <p className="text-xs sm:text-sm text-[#fdfdfb]/60 leading-relaxed max-w-sm">
-            Royal Sphire is Pakistan's ultimate destination for cutting-edge gadgets, smartwatches, transparent earbuds, men's trimmer detailers, and kitchen organizers. We bring tech to your lifestyle with unmatched quality and pricing.
+            Royalsphire Gadgets is Pakistan's ultimate destination for cutting-edge gadgets, smartwatches, transparent earbuds, men's trimmer detailers, and kitchen organizers. We bring tech to your lifestyle with unmatched quality and pricing.
           </p>
           <div className="pt-2">
             <a
@@ -175,7 +175,7 @@ export default function Footer({ onCategorySelect }: FooterProps) {
       {/* Sub-footer Copyright details */}
       <div className="border-t border-white/5 py-8 bg-[#141414]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row justify-between items-center gap-4 text-[10px] text-[#fdfdfb]/40 uppercase tracking-widest">
-          <p>© 2026 Royal Sphire Pakistan. All Rights Reserved. Built with ❤️ for smart shoppers.</p>
+          <p>© 2026 Royalsphire Gadgets Pakistan. All Rights Reserved. Built with ❤️ for smart shoppers.</p>
           <div className="flex gap-6 font-bold">
             <a href="#" className="hover:text-white transition-colors">Terms</a>
             <a href="#" className="hover:text-white transition-colors">Refunds</a>

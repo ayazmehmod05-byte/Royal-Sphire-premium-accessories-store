@@ -71,13 +71,13 @@ export default function Header({
               <div className="relative h-9 w-9 sm:h-11 sm:w-11 rounded-full overflow-hidden border border-[#1a1a1a]/15 bg-white flex items-center justify-center shrink-0 shadow-xs">
                 <img 
                   src="D:\shopify premium store updated version\WhatsApp Image 2026-07-13 at 4.03.28 PM.jpeg" 
-                  alt="Royal Fire Logo" 
+                  alt="Royalsphire Gadgets Logo"
                   referrerPolicy="no-referrer"
                   className="h-full w-full object-cover scale-[1.02]"
                 />
               </div>
               <span className="text-xl sm:text-2xl font-serif italic tracking-tight text-[#1a1a1a] font-bold">
-                Royal <span className="not-italic font-light tracking-widest text-[10px] sm:text-xs uppercase opacity-80 ml-1">Sphire</span>
+                Royalsphire <span className="not-italic font-light tracking-widest text-[10px] sm:text-xs uppercase opacity-80 ml-1">Gadgets</span>
               </span>
             </a>
           </div>
@@ -103,7 +103,7 @@ export default function Header({
           <div className="flex items-center gap-1 sm:gap-4">
             <a
               id="whatsapp-call-link"
-              href="https://wa.me/923495979062?text=Hi%20Royal%20Sphire%2C%20I%20want%20to%20inquire%20about%20a%20product."
+              href="https://wa.me/923495979062?text=Hi%20Royalsphire%20Gadgets%2C%20I%20want%20to%20inquire%20about%20a%20product."
               target="_blank"
               referrerPolicy="no-referrer"
               className="hidden lg:flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-widest text-[#1a1a1a] bg-transparent hover:opacity-75 px-3 py-2 transition-all border border-[#1a1a1a]/15"
@@ -213,13 +213,13 @@ export default function Header({
                   <div className="relative h-8 w-8 rounded-full overflow-hidden border border-[#1a1a1a]/15 bg-white flex items-center justify-center shrink-0 shadow-xs">
                     <img 
                       src="WhatsApp Image 2026-07-13 at 4.03.28 PM.jpeg" 
-                      alt="Royal Sphire Logo" 
+                      alt="Royalsphire Gadgets Logo"
                       referrerPolicy="no-referrer"
                       className="h-full w-full object-cover scale-[1.02]"
                     />
                   </div>
                   <span className="text-xl font-serif italic font-bold text-[#1a1a1a]">
-                    Royal <span className="not-italic font-light text-[10px] uppercase tracking-widest">Sphire</span>
+                    Royalsphire <span className="not-italic font-light text-[10px] uppercase tracking-widest">Gadgets</span>
                   </span>
                 </div>
                 <button
