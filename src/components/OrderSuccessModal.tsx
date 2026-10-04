@@ -41,7 +41,7 @@ export default function OrderSuccessModal({
 
   // Direct WhatsApp message formatting for user to expedite order verification
   const itemsText = itemsPurchased.map(item => `- ${item.product.title} (Color: ${item.selectedVariant}) x${item.quantity}`).join('%0A');
-  const whatsappMessage = `Assalam-o-Alaikum! Royal Sphire Team, I have just placed an order.%0A%0A*Order Details:*%0A- Tracking ID: *${trackingId}*%0A- Name: ${orderDetails.fullName}%0A- Phone: ${orderDetails.phone}%0A- City: ${orderDetails.city}%0A- Address: ${orderDetails.address}%0A%0A*Items:*%0A${itemsText}%0A%0A*Total Bill:* Rs. ${total.toLocaleString()}%0A%0APlease verify and dispatch my order. Shukriya!`;
+  const whatsappMessage = `Assalam-o-Alaikum! Royalsphire Gadgets Team, I have just placed an order.%0A%0A*Order Details:*%0A- Tracking ID: *${trackingId}*%0A- Name: ${orderDetails.fullName}%0A- Phone: ${orderDetails.phone}%0A- City: ${orderDetails.city}%0A- Address: ${orderDetails.address}%0A%0A*Items:*%0A${itemsText}%0A%0A*Total Bill:* Rs. ${total.toLocaleString()}%0A%0APlease verify and dispatch my order. Shukriya!`;
 
   return (
     <div className="fixed inset-0 z-50 overflow-y-auto bg-black/50 backdrop-blur-xs flex items-center justify-center p-4">

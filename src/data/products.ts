@@ -335,7 +335,7 @@ export const MOCK_REVIEWS: Record<string, Review[]> = {
   ],
   'm10-pro-earbuds': [
     { id: 'rev-6', author: 'Yasir Ali', rating: 5, date: '4 days ago', comment: 'Mene is se apna mobile charge kiya emergency me, perfect kaam kiya. Sound is also loud and PUBG me delay bilkul na hone k barabar ha.', verified: true },
-    { id: 'rev-7', author: 'Hamza Malik', rating: 4, date: '12 days ago', comment: 'Value for money product. Battery capacity is real. Highly satisfied with Royal Sphire.', verified: true }
+    { id: 'rev-7', author: 'Hamza Malik', rating: 4, date: '12 days ago', comment: 'Value for money product. Battery capacity is real. Highly satisfied with Royalsphire Gadgets.', verified: true }
   ],
   'vgr-v030-trimmer': [
     { id: 'rev-8', author: 'Asif Mehmood', rating: 5, date: '6 days ago', comment: 'Clean zero cut trimmer. Blade quality is top notch. Barber jesi finish milti ha ghr pe hi. Delivery was fast too.', verified: true },

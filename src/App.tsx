@@ -282,7 +282,7 @@ export default function App() {
         <div className="group flex flex-col items-start gap-2 pointer-events-auto">
           <a
             id="floating-whatsapp-widget"
-            href="https://wa.me/923495979062?text=Hi%20Royal%20Sphire%21%20I%20am%20browsing%20your%20website%20and%20need%20help%20placing%20an%20order."
+            href="https://wa.me/923495979062?text=Hi%20Royalsphire%20Gadgets%21%20I%20am%20browsing%20your%20website%20and%20need%20help%20placing%20an%20order."
             target="_blank"
             referrerPolicy="no-referrer"
             className="bg-green-500 hover:bg-green-600 text-white p-3.5 sm:p-4 rounded-full shadow-2xl transition-all duration-300 hover:scale-110 active:scale-90 flex items-center justify-center relative cursor-pointer"

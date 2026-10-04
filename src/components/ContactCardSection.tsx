@@ -106,7 +106,7 @@ export default function ContactCardSection({ onShowToast }: ContactCardSectionPr
                 {/* 1. WhatsApp Button */}
                 <a
                   id="direct-whatsapp-contact-btn"
-                  href="https://wa.me/923495979062?text=Hi%20Royal%20Sphire%21%20I%27d%20like%20to%20inquire%20about%20your%20premium%20tech%20gadgets."
+                  href="https://wa.me/923495979062?text=Hi%20Royalsphire%20Gadgets%21%20I%27d%20like%20to%20inquire%20about%20your%20premium%20tech%20gadgets."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 bg-[#25D366] hover:bg-[#20ba56] text-white font-sans font-bold text-sm px-6 py-4 rounded-xl shadow-lg transition-all active:scale-98 group cursor-pointer"
@@ -123,7 +123,7 @@ export default function ContactCardSection({ onShowToast }: ContactCardSectionPr
                 {/* 2. Email Button */}
                 <a
                   id="direct-email-contact-btn"
-                  href="mailto:ayazmehmod05@gmail.com?subject=Product%20Inquiry%20-%20Royal%20Sphire"
+                  href="mailto:ayazmehmod05@gmail.com?subject=Product%20Inquiry%20-%20Royalsphire%20Gadgets"
                   className="flex items-center gap-4 bg-white/10 hover:bg-white/15 border border-white/10 text-white font-sans font-bold text-sm px-6 py-4 rounded-xl shadow-lg transition-all active:scale-98 group cursor-pointer"
                 >
                   <div className="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center text-neutral-300 shrink-0 group-hover:text-white transition-colors">
